@@ -1,0 +1,12 @@
+# --- Blackhill safety (append to your .gitignore) ---
+.env
+.env.*
+!.env.example
+private_uploads/
+media/
+*.sqlite3
+*.dump
+*.sql
+*.pem
+*.key
+docs/handoff/
