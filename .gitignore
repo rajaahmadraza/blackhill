@@ -10,3 +10,6 @@ media/
 *.pem
 *.key
 docs/handoff/
+
+# Windows metadata
+*:Zone.Identifier
